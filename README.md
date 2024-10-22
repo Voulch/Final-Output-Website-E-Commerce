@@ -2,7 +2,8 @@ Website name: Kick and Co. Shoe Store
 
 Website type: E-commerce
 
-Members: 
+Members:
+
 Edward Ong
 
 Jacob Sese
